@@ -3,6 +3,10 @@ import logo from './logo.svg';
 import './App.css';
 
 function App() {
+  function getFullName({ firstName, lastName }) {
+    return `${firstName} ${lastName}`;
+  }
+
   return (
     <div className="App">
       <header className="App-header">
