@@ -19,5 +19,4 @@ Nesta demo utilizamos a versão 13.7 do node
 
 * **Lucas Nhimi** - [lucasnhimi](https://github.com/lucasnhimi)
 
-Veja mais conteúdos no [youtube]
- (https://www.youtube.com/lucasnhimi) 
+Veja mais conteúdos no [youtube](https://www.youtube.com/lucasnhimi) 
